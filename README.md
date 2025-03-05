@@ -1,4 +1,3 @@
-# HerHealth
 # HerHealth - A data driven health recommendations for women
 
 ## Overview
